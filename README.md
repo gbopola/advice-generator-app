@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://stupefied-montalcini-c982aa.netlify.app/](https://stupefied-montalcini-c982aa.netlify.app/)
-- Solution URL: [https://github.com/gbopola/ip-tracker-vanilla-js](https://github.com/gbopola/ip-tracker-vanilla-js)
+- Live Site URL: [gen-advice-app.netlify.app](gen-advice-app.netlify.app)
+- Solution URL: [https://github.com/gbopola/advice-generator-app](https://github.com/gbopola/advice-generator-app)
 
 ### Built with
 
