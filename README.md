@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [gen-advice-app.netlify.app](gen-advice-app.netlify.app)
+- Live Site URL: [https://gen-advice-app.netlify.app](https://gen-advice-app.netlify.app)
 - Solution URL: [https://github.com/gbopola/advice-generator-app](https://github.com/gbopola/advice-generator-app)
 
 ### Built with
