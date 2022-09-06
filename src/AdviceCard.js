@@ -19,8 +19,8 @@ export const AdviceCard = () => {
     <div className='card'>
         <p>ADVICE #{advice.id}</p>
         <h2>“{advice.advice}”</h2>
-        <img src={dividerDesktop} className="divider-desktop"  />
-        <img src={dividerMobile} className="divider-mobile" />
+        <img src={dividerDesktop} className="divider-desktop" alt="divider"  />
+        <img src={dividerMobile} className="divider-mobile" alt="divider" />
         <div className="dice" onClick={getAdvice}>
         <img src={dice}   />
         </div>
