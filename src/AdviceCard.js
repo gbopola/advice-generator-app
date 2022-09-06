@@ -22,7 +22,7 @@ export const AdviceCard = () => {
         <img src={dividerDesktop} className="divider-desktop" alt="divider"  />
         <img src={dividerMobile} className="divider-mobile" alt="divider" />
         <div className="dice" onClick={getAdvice}>
-        <img src={dice}   />
+        <img src={dice} alt="dice"   />
         </div>
     </div>
   )
